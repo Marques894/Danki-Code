@@ -15,3 +15,10 @@
 # dict = Dicionários, coleções de pares chave-valor, como {"nome": "João", "idade": 30}.
 
 # set = Conjuntos, coleções de elementos únicos e não ordenados, como {1, 2, 3}.
+
+
+
+
+
+
+# TESTANDO
